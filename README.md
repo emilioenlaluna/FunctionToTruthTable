@@ -1,1 +1,6 @@
-# FunctionToTruthTable
+# Function To Truth Table
+Get the truth table from a funcion give by the user.
+
+A truth table is a mathematical table used in logic—specifically in connection with Boolean algebra, boolean functions, and propositional calculus—which sets out the functional values of logical expressions on each of their functional arguments, that is, for each combination of values taken by their logical variables.[1] In particular, truth tables can be used to show whether a propositional expression is true for all legitimate input values, that is, logically valid.
+
+A truth table has one column for each input variable (for example, P and Q), and one final column showing all of the possible results of the logical operation that the table represents (for example, P XOR Q). Each row of the truth table contains one possible configuration of the input variables (for instance, P=true Q=false), and the result of the operation for those values. See the examples below for further clarification. Ludwig Wittgenstein is generally credited with inventing and popularizing the truth table in his Tractatus Logico-Philosophicus, which was completed in 1918 and published in 1921.[2] Such a system was also independently proposed in 1921 by Emil Leon Post.[3] An even earlier iteration of the truth table has also been found in unpublished manuscripts by Charles Sanders Peirce from 1893, antedating both publications by nearly 30 years.[4]
